@@ -5,7 +5,9 @@
 Este projeto tem como objetivo auxiliar o Senhor João, proprietário da rede fictícia Alura Store, na tomada de decisão sobre qual de suas quatro lojas deve ser vendida para viabilizar um novo empreendimento. Para isso, será realizada uma análise exploratória de dados com base em informações de faturamento, desempenho de vendas, avaliações dos clientes, categorias e produtos mais vendidos, além do valor médio de frete.
 
 🔎 | Ferramentas Utilizadas
+
 🐍 Python
+
 ![https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/jupyter_notebook.pngJupyter] Notebook
 
 📚 | Bibliotecas
