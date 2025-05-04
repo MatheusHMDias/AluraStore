@@ -10,6 +10,8 @@ Este projeto tem como objetivo auxiliar o Senhor João, proprietário da rede fi
 
 Jupyter Notebook
 
+---------------------
+
 📚 | Bibliotecas
 
 🐼 Pandas
@@ -20,6 +22,8 @@ Jupyter Notebook
 
 🌊 Seaborn
 
+--------------
+
 📈 Visualizações e Insights
 
 Faturamento por Loja: Total vendido por cada loja.
@@ -28,6 +32,8 @@ Média de Avaliações: Nota média dada por clientes para cada loja.
 Produtos Mais e Menos Vendidos: Ranking com base no volume de vendas.
 Frete Médio por Loja: Custo médio de entrega por unidade.
 Relatório Final: Para a Tomada de Decisão.
+
+--------------------------
 
 🧠 Conclusão 
 
