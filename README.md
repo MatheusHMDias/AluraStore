@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/7be45851-a44d-4bbf-8ce0-6f62fc4d8c27)# 📊Desafio Alura Store
+# 📊Desafio Alura Store
 
 🎯Objetivo
 
@@ -8,7 +8,7 @@ Este projeto tem como objetivo auxiliar o Senhor João, proprietário da rede fi
 
 🐍 Python
 
-([[https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/jupyter_notebook.png](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/jupyter_notebook.png)]) Jupyter Notebook
+![image](https://github.com/user-attachments/assets/7be45851-a44d-4bbf-8ce0-6f62fc4d8c27) Jupyter Notebook
 
 📚 | Bibliotecas
 🐼 Pandas
