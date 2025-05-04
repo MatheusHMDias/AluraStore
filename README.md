@@ -4,6 +4,24 @@
 
 Este projeto tem como objetivo auxiliar o Senhor João, proprietário da rede fictícia Alura Store, na tomada de decisão sobre qual de suas quatro lojas deve ser vendida para viabilizar um novo empreendimento. Para isso, será realizada uma análise exploratória de dados com base em informações de faturamento, desempenho de vendas, avaliações dos clientes, categorias e produtos mais vendidos, além do valor médio de frete.
 
+--------------
+
+# 📈 Visualizações e Insights
+
+Faturamento por Loja: Total vendido por cada loja.
+
+Vendas por Categoria: Comparativo por tipo de produto entre as lojas.
+
+Média de Avaliações: Nota média dada por clientes para cada loja.
+
+Produtos Mais e Menos Vendidos: Ranking com base no volume de vendas.
+
+Frete Médio por Loja: Custo médio de entrega por unidade.
+
+Relatório Final: Para a Tomada de Decisão.
+
+--------------
+
 # 🔎 | Ferramentas Utilizadas
 
 🐍 Python
@@ -21,17 +39,6 @@ Jupyter Notebook
 📉 Matplotlib
 
 🌊 Seaborn
-
---------------
-
-# 📈 Visualizações e Insights
-
-Faturamento por Loja: Total vendido por cada loja.
-Vendas por Categoria: Comparativo por tipo de produto entre as lojas.
-Média de Avaliações: Nota média dada por clientes para cada loja.
-Produtos Mais e Menos Vendidos: Ranking com base no volume de vendas.
-Frete Médio por Loja: Custo médio de entrega por unidade.
-Relatório Final: Para a Tomada de Decisão.
 
 --------------
 
