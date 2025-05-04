@@ -8,7 +8,7 @@ Este projeto tem como objetivo auxiliar o Senhor João, proprietário da rede fi
 
 🐍 Python
 
-([https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/jupyter_notebook.png]) Jupyter Notebook
+([[https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/jupyter_notebook.png](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/jupyter_notebook.png)]) Jupyter Notebook
 
 📚 | Bibliotecas
 🐼 Pandas
