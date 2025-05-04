@@ -8,12 +8,16 @@ Este projeto tem como objetivo auxiliar o Senhor João, proprietário da rede fi
 
 🐍 Python
 
-![image](https://github.com/user-attachments/assets/7be45851-a44d-4bbf-8ce0-6f62fc4d8c27) Jupyter Notebook
+Jupyter Notebook
 
 📚 | Bibliotecas
+
 🐼 Pandas
+
 📊 Numpy
+
 📉 Matplotlib
+
 🌊 Seaborn
 
 📈 Visualizações e Insights
