@@ -1,12 +1,12 @@
 # 📊Desafio Alura Store
 
-🎯Objetivo
+## 🎯Objetivo
 
 Este projeto tem como objetivo auxiliar o Senhor João, proprietário da rede fictícia Alura Store, na tomada de decisão sobre qual de suas quatro lojas deve ser vendida para viabilizar um novo empreendimento. Para isso, será realizada uma análise exploratória de dados com base em informações de faturamento, desempenho de vendas, avaliações dos clientes, categorias e produtos mais vendidos, além do valor médio de frete.
 
 --------------
 
-# 📈 Visualizações e Insights
+## 📈 Visualizações e Insights
 
 Faturamento por Loja: Total vendido por cada loja.
 
@@ -22,7 +22,7 @@ Relatório Final: Para a Tomada de Decisão.
 
 --------------
 
-# 🔎 | Ferramentas Utilizadas
+## 🔎 | Ferramentas Utilizadas
 
 🐍 Python
 
@@ -30,7 +30,7 @@ Jupyter Notebook
 
 --------------
 
-# 📚 | Bibliotecas
+## 📚 | Bibliotecas
 
 🐼 Pandas
 
@@ -42,7 +42,7 @@ Jupyter Notebook
 
 --------------
 
-# 🧠 Conclusão 
+## 🧠 Conclusão 
 
 Com base na análise dos dados apresentados, a recomendação é que o Senhor João venda a Loja 4. Essa decisão é sustentada pelos seguintes fatores:
 * Menor Faturamento: A Loja 4 apresenta o menor faturamento entre todas (R$ 1.384.497,58), o que demonstra um desempenho financeiro abaixo das demais.
@@ -51,7 +51,7 @@ Com base na análise dos dados apresentados, a recomendação é que o Senhor Jo
 * Frete como Único Destaque: O único ponto realmente forte da Loja 4 é o frete médio mais baixo (R$ 31.3). No entanto, esse diferencial isolado não compensa o baixo faturamento e o desempenho geral.
 Dessa forma, vender a Loja 4 permitirá ao Senhor João capitalizar sobre o valor ainda existente nela e reinvestir esse recurso nas demais lojas, que apresentam melhor desempenho e maior potencial de crescimento. Ao focar nas Lojas 1, 2 e 3 — que têm melhores indicadores de faturamento, avaliações e alinhamento com as categorias mais vendidas — João poderá fortalecer sua operação, aumentar sua margem de lucro e melhorar a experiência do cliente nas lojas restantes.
 
-# 📂 Acesso ao Projeto
+## 📂 Acesso ao Projeto
 📑 Notebook completo: 
 📂 Pasta com Gráficos:
 💾 Database: 
