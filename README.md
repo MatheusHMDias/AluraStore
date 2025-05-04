@@ -18,6 +18,8 @@ Produtos Mais e Menos Vendidos: Ranking com base no volume de vendas.
 
 Frete Médio por Loja: Custo médio de entrega por unidade.
 
+Distribuição Geográfica das Vendas por Categoria de Produto: Vendas por categoria de acordo com a latitude e longitude.
+
 Relatório Final: Para a Tomada de Decisão.
 
 --------------
