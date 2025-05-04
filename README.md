@@ -52,6 +52,8 @@ Com base na análise dos dados apresentados, a recomendação é que o Senhor Jo
 Dessa forma, vender a Loja 4 permitirá ao Senhor João capitalizar sobre o valor ainda existente nela e reinvestir esse recurso nas demais lojas, que apresentam melhor desempenho e maior potencial de crescimento. Ao focar nas Lojas 1, 2 e 3 — que têm melhores indicadores de faturamento, avaliações e alinhamento com as categorias mais vendidas — João poderá fortalecer sua operação, aumentar sua margem de lucro e melhorar a experiência do cliente nas lojas restantes.
 
 ## 📂 Acesso ao Projeto
-📑 Notebook completo: 
+📑 Notebook completo: https://github.com/MatheusHMDias/AluraStore/blob/main/AluraStoreBr.ipynb
+
 📂 Pasta com Gráficos:
-💾 Database: 
+
+💾 Database: https://github.com/MatheusHMDias/AluraStore/tree/main/dados
